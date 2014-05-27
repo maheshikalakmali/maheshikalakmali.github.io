@@ -17,12 +17,12 @@ body {
 
 .contact-wrap {
 	background-color: #b1e0e3;
-	color: #fff;
+	color: #2a6496;
 	padding:40px;
 }
 .contact-wrap h2,h3,h4,p,ul { text-align:center;}
 .contact-wrap h2 {
-	margin-top:5px;padding-bottom:20px;
+	margin-top:5px;padding-bottom:20px;color: #2a6496;
 }
 .contact-wrap i.fa {
 	font-size: 2.5em;
