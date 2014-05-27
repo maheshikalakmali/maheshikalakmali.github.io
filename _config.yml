@@ -1,0 +1,6 @@
+name: "Second jekyll"
+description: "A tutotial follow up"
+
+markdown: rdiscount
+permalink: pretty
+pygments: true
